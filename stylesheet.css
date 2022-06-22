@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+/* .main_Container{
+    background-image: linear-gradient(to right,rgb(84, 83, 109),rgb(124, 126, 146));
+} */
+
+.card{                          
+    background-image:linear-gradient(to right,#c3e7ca,rgb(31, 26, 26)); 
+}
+
+/* .bg-light{
+    background-color: white;
+    color: black;
+} */
